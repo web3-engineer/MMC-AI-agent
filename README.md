@@ -110,25 +110,25 @@ Containerização: Docker + Docker Compose
 
 ## Metodologia de Desenvolvimento
 
-### Fase 1: Prototipagem e Pesquisa (2-3 semanas)
+### Fase 1: Prototipagem e Pesquisa
 - Análise detalhada do sistema de autenticação ENEL
 - Desenvolvimento de POCs para bypass de CAPTCHA
 - Testes de diferentes estratégias de scraping
 - Definição da arquitetura final
 
-### Fase 2: Desenvolvimento Core (4-6 semanas)
+### Fase 2: Desenvolvimento Core 
 - Implementação do engine de scraping
 - Desenvolvimento dos módulos de autenticação
 - Criação do sistema de processamento de dados
 - Implementação de APIs REST
 
-### Fase 3: Otimização e Segurança (2-3 semanas)
+### Fase 3: Otimização e Segurança
 - Implementação de proxy rotation
 - Sistema de retry e error handling
 - Criptografia de credenciais
 - Logging e monitoramento
 
-### Fase 4: Interface e Integração (2-3 semanas)
+### Fase 4: Interface e Integração
 - Dashboard React para visualização
 - APIs para integração externa
 - Documentação completa
